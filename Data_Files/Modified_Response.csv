@@ -1,0 +1,260 @@
+Timestamp,Branch,Gender,Programme,year,How many hours of classes do you have in a week?,How frequently do you attend classes?,You are most likely to attend classes during,"How many courses do you have that has mandatory or random attendance, surprise quiz, marks on interaction etc?",How likely are you to attend 2 classes that has gap in between (say a class from 9am - 10am and 11am - 12-pm)?,How frequently have u attended classes before launching of attendance app?,How frequently have u attended classes after launching of attendance app?,When do you wake up usually(weekdays)?,"If your peers aren't attending a class, will you attend that class...If you have friends?",Do you care to attend classes after getting low score in exams?,What is your current CGPA? (ex. 7.73),No.of Courses,No of Classes
+4/14/2024 0:46:22,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,2,2,4,9:00 am - 10:00 am,No,Yes,9.07,9,5
+4/14/2024 0:49:47,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),4,2,2,3,9:00 am - 10:00 am,No,Sometimes,8.85,9,3
+4/14/2024 0:49:50,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Often,"Morning (9am - 1pm), Evening (5:30 pm or later)  :(",4,2,2,3,8:00 am - 9:00 am,No,Sometimes,8.67,9,7
+4/14/2024 0:52:42,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),4,2,2,4,After 10:00 am,Yes,Yes,8.137301481,9,5
+4/14/2024 12:28:22,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,2,1,1,After 10:00 am,No,No,9.945382724,9,5
+4/14/2024 12:29:20,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,3,4,5,7:00 am - 8:00 am,Yes,Yes,9.13,4,10
+4/14/2024 12:29:48,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",6,5,5,5,6:00 am - 7:00 am,No,Yes,8.8,7,10
+4/14/2024 12:29:51,CS/AI/MnC,Male,Bachelors,4th,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,4,4,9:00 am - 10:00 am,Yes,Yes,8.487847785,4,7
+4/14/2024 12:30:17,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),3,1,1,1,After 10:00 am,No,No,8.45,6,3
+4/14/2024 12:30:21,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,4,3,3,7:00 am - 8:00 am,Yes,Yes,9.24,8,7
+4/14/2024 12:30:25,EE/EP/ES/CO,Male,Bachelors,4th,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",5,5,4,4,7:00 am - 8:00 am,Yes,Yes,8.901557544,4,10
+4/14/2024 12:30:46,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),5,4,3,4,8:00 am - 9:00 am,No,Yes,7.4,4,7
+4/14/2024 12:30:49,EE/EP/ES/CO,Male,Masters,1st,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),3,4,3,4,9:00 am - 10:00 am,No,No,8.25,8,7
+4/14/2024 12:30:49,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),3,5,4,4,7:00 am - 8:00 am,Yes,Yes,8.76,8,10
+4/14/2024 12:30:55,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Often,Morning (9am - 1pm),4,2,4,4,8:00 am - 9:00 am,No,No,8.73,8,7
+4/14/2024 12:31:07,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,<= 12 hours,Often,"Morning (9am - 1pm), Evening (5:30 pm or later)  :(",2,5,2,2,8:00 am - 9:00 am,No,Sometimes,8.48,4,7
+4/14/2024 12:31:21,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),Evening (5:30 pm or later)  :(,3,1,5,5,9:00 am - 10:00 am,No,Yes,8.95632718,4,10
+4/14/2024 12:31:42,CS/AI/MnC,Male,Bachelors,3rd,<= 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,2,1,1,8:00 am - 9:00 am,No,No,8.9,4,5
+4/14/2024 12:32:19,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,2,2,3,9:00 am - 10:00 am,Yes,Yes,8.958568747,8,5
+4/14/2024 12:32:31,CS/AI/MnC,Male,Bachelors,3rd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,2,1,1,9:00 am - 10:00 am,Yes,Sometimes,7.6,4,5
+4/14/2024 12:33:44,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,8:00 am - 9:00 am,Yes,Yes,8.75,4,10
+4/14/2024 12:34:13,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Often,Morning (9am - 1pm),6,5,4,4,7:00 am - 8:00 am,Yes,Yes,8.98,8,7
+4/14/2024 12:34:41,EE/EP/ES/CO,Female,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,3,3,3,7:00 am - 8:00 am,Yes,Sometimes,7.2,4,5
+4/14/2024 12:34:44,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,Morning (9am - 1pm),2,4,2,3,6:00 am - 7:00 am,Yes,Yes,8.573874301,4,7
+4/14/2024 12:34:57,CS/AI/MnC,Male,Bachelors,4th,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,2,2,2,9:00 am - 10:00 am,No,Sometimes,8.39,4,5
+4/14/2024 12:35:06,EE/EP/ES/CO,Male,Bachelors,4th,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,3,3,3,9:00 am - 10:00 am,Yes,Yes,8.24,8,5
+4/14/2024 12:35:22,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),4,2,2,4,8:00 am - 9:00 am,Yes,Sometimes,8.5,8,5
+4/14/2024 12:35:43,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),1,4,4,4,6:00 am - 7:00 am,Yes,Yes,9.1,8,10
+4/14/2024 12:36:01,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,5,5,5,7:00 am - 8:00 am,No,Sometimes,8,4,10
+4/14/2024 12:37:43,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,4,4,3,8:00 am - 9:00 am,Yes,Yes,9.14,8,10
+4/14/2024 12:39:09,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,3,4,3,7:00 am - 8:00 am,Yes,Sometimes,8.398553977,4,10
+4/14/2024 12:40:06,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,3,4,4,8:00 am - 9:00 am,No,Yes,9.5,8,10
+4/14/2024 12:40:44,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Often,Morning (9am - 1pm),1,1,3,3,8:00 am - 9:00 am,Yes,Sometimes,8.25,8,7
+4/14/2024 12:41:14,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),4,2,2,1,6:00 am - 7:00 am,Yes,Yes,8.25,4,9
+4/14/2024 12:41:14,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,3,4,4,8:00 am - 9:00 am,No,Yes,9,4,7
+4/14/2024 12:42:24,ME/CH(IC)/CE/MS/BT/BM,Female,Research,1st,<= 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),4,1,5,5,7:00 am - 8:00 am,Yes,Yes,8.5,4,9
+4/14/2024 12:43:36,CS/AI/MnC,Female,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,5,5,5,9:00 am - 10:00 am,Yes,Yes,9.72,8,9
+4/14/2024 12:45:10,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),1,4,2,2,8:00 am - 9:00 am,No,No,8.05,8,7
+4/14/2024 12:45:53,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",9,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.9,8,9
+4/14/2024 12:47:16,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Evening (5:30 pm or later)  :(,2,1,2,2,9:00 am - 10:00 am,No,Sometimes,9.28,8,5
+4/14/2024 12:47:55,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,2,5,5,6:00 am - 7:00 am,Yes,Yes,9.37,7,9
+4/14/2024 12:48:16,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),4,3,4,4,8:00 am - 9:00 am,Yes,Yes,8.873935282,7,7
+4/14/2024 12:49:27,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,<= 12 hours,Often,Morning (9am - 1pm),2,3,3,3,7:00 am - 8:00 am,Yes,Sometimes,8.446153909,4,7
+4/14/2024 12:50:14,Design,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,2,3,3,9:00 am - 10:00 am,Yes,Sometimes,7.51,7,7
+4/14/2024 12:50:45,EE/EP/ES/CO,Female,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),5,4,2,3,8:00 am - 9:00 am,No,Sometimes,8,7,5
+4/14/2024 12:53:45,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,> 12 hours,Often,Morning (9am - 1pm),2,4,4,4,8:00 am - 9:00 am,No,Sometimes,9.58,7,7
+4/14/2024 12:53:46,EE/EP/ES/CO,Male,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.55,4,9
+4/14/2024 12:54:58,CS/AI/MnC,Male,Bachelors,1st,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,4,4,8:00 am - 9:00 am,Yes,Yes,8.6,7,7
+4/14/2024 12:55:43,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),4,4,4,4,7:00 am - 8:00 am,Yes,Yes,7.73,7,9
+4/14/2024 12:55:43,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,5,5,6:00 am - 7:00 am,Yes,Yes,9.47,7,9
+4/14/2024 12:57:16,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,4,1,2,8:00 am - 9:00 am,Yes,Yes,8.67,7,7
+4/14/2024 13:01:48,EE/EP/ES/CO,Female,Bachelors,1st,> 12 hours,Often,"Morning (9am - 1pm), Evening (5:30 pm or later)  :(",1,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.5,7,7
+4/14/2024 13:02:27,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),3,1,3,3,8:00 am - 9:00 am,Yes,Sometimes,7.146823851,7,5
+4/14/2024 13:04:25,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),3,3,4,4,7:00 am - 8:00 am,Yes,Sometimes,7.31,7,5
+4/14/2024 13:07:18,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,5,5,5,6:00 am - 7:00 am,Yes,Yes,9.1,7,9
+4/14/2024 13:08:04,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,5,5,5,8:00 am - 9:00 am,Yes,Yes,9,4,9
+4/14/2024 13:11:08,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),7,3,3,5,After 10:00 am,Yes,No,8.37,7,9
+4/14/2024 13:12:45,Design,Female,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,3,5,5,9:00 am - 10:00 am,No,Yes,9.4,4,9
+4/14/2024 13:13:12,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,5,5,5,8:00 am - 9:00 am,Yes,Yes,8,7,9
+4/14/2024 13:16:06,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,4,3,4,8:00 am - 9:00 am,No,Yes,8.9,4,6
+4/14/2024 13:19:42,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,5,5,6:00 am - 7:00 am,Yes,Yes,7.5,6,9
+4/14/2024 13:22:09,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,4th,<= 12 hours,Often,Morning (9am - 1pm),1,3,4,4,8:00 am - 9:00 am,Yes,Sometimes,9.37,4,6
+4/14/2024 13:22:10,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),2,1,2,1,8:00 am - 9:00 am,No,Sometimes,7.97,6,5
+4/14/2024 13:23:24,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Evening (5:30 pm or later)  :(",1,3,2,3,8:00 am - 9:00 am,No,Sometimes,9.47,6,5
+4/14/2024 13:24:44,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),2,4,4,4,7:00 am - 8:00 am,Yes,Yes,9.82,4,6
+4/14/2024 13:24:47,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,4,5,5,8:00 am - 9:00 am,Yes,Yes,7.8,6,9
+4/14/2024 13:29:19,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Between Rarely and Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",4,1,2,3,9:00 am - 10:00 am,Yes,Sometimes,7.67,6,5
+4/14/2024 13:36:28,ME/CH(IC)/CE/MS/BT/BM,Female,Research,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,5,4,2,7:00 am - 8:00 am,No,No,7.5,4,9
+4/14/2024 13:36:34,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,5,3,3,8:00 am - 9:00 am,No,Yes,9.3,4,5
+4/14/2024 13:40:20,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",10,5,5,5,After 10:00 am,Yes,No,6.69,6,9
+4/14/2024 13:46:51,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),5,5,4,5,8:00 am - 9:00 am,Yes,Yes,9.59,6,9
+4/14/2024 13:51:58,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Evening (5:30 pm or later)  :(",2,2,2,2,8:00 am - 9:00 am,No,Sometimes,7.9,4,5
+4/14/2024 13:52:49,EE/EP/ES/CO,Female,Masters,1st,<= 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),2,2,5,5,6:00 am - 7:00 am,No,No,7.777316238,4,9
+4/14/2024 13:53:29,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",5,5,4,5,7:00 am - 8:00 am,Yes,Yes,9,6,9
+4/14/2024 13:59:18,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),3,4,1,1,8:00 am - 9:00 am,Yes,Yes,9.4,4,3
+4/14/2024 13:59:23,CS/AI/MnC,Female,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,4,5,5,7:00 am - 8:00 am,Yes,Yes,7.69,6,8
+4/14/2024 14:01:34,CS/AI/MnC,Male,Masters,1st,<= 12 hours,Between Rarely and Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,3,3,3,7:00 am - 8:00 am,Yes,Sometimes,6.5,4,5
+4/14/2024 14:07:38,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Rarely,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,1,1,5,After 10:00 am,No,No,7.74,6,3
+4/14/2024 14:07:44,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,3,4,5,8:00 am - 9:00 am,No,Yes,9.38,4,5
+4/14/2024 14:08:17,CS/AI/MnC,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.8,6,8
+4/14/2024 14:22:17,EE/EP/ES/CO,Female,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),3,3,5,5,8:00 am - 9:00 am,Yes,Yes,8.75,4,8
+4/14/2024 14:52:23,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),6,2,4,4,8:00 am - 9:00 am,No,Sometimes,8.844979059,6,8
+4/14/2024 15:03:30,CS/AI/MnC,Male,Bachelors,4th,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),2,3,4,3,9:00 am - 10:00 am,No,Yes,8.6,3,6
+4/14/2024 15:05:53,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",6,4,4,4,8:00 am - 9:00 am,No,Sometimes,8.6,6,6
+4/14/2024 15:15:37,ME/CH(IC)/CE/MS/BT/BM,Female,Research,2nd,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,3,3,3,7:00 am - 8:00 am,No,Yes,8,3,6
+4/14/2024 15:27:01,CS/AI/MnC,Female,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,4,4,4,8:00 am - 9:00 am,Yes,Yes,8.6,3,5
+4/14/2024 15:32:49,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,4,3,3,8:00 am - 9:00 am,Yes,Yes,8.96,6,5
+4/14/2024 15:41:33,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,5,5,8:00 am - 9:00 am,Yes,Yes,9.44,6,8
+4/14/2024 15:44:42,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),3,4,1,4,6:00 am - 7:00 am,Yes,Yes,9.25,6,6
+4/14/2024 16:22:53,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,4,4,4,7:00 am - 8:00 am,Yes,Yes,8.9,6,5
+4/14/2024 16:28:12,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),4,2,4,4,7:00 am - 8:00 am,No,Yes,9.06,6,6
+4/14/2024 16:30:46,CS/AI/MnC,Male,Masters,1st,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,5,4,4,6:00 am - 7:00 am,Yes,Yes,8.286432936,3,6
+4/14/2024 16:42:47,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.180582565,6,8
+4/14/2024 16:44:10,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,1,3,3,9:00 am - 10:00 am,Yes,Sometimes,8.76,6,5
+4/14/2024 16:45:16,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Rarely,Evening (5:30 pm or later)  :(,2,1,0,1,After 10:00 am,Yes,No,8.95,6,3
+4/14/2024 16:48:07,EE/EP/ES/CO,Male,Bachelors,3rd,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),1,3,4,5,6:00 am - 7:00 am,Yes,No,8.522588032,6,6
+4/14/2024 16:52:00,CS/AI/MnC,Female,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),2,1,0,3,9:00 am - 10:00 am,No,Sometimes,8.94,3,3
+4/14/2024 16:57:51,CS/AI/MnC,Male,Research,2nd,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,5,5,7:00 am - 8:00 am,Yes,Yes,9.75,3,8
+4/14/2024 16:58:24,ME/CH(IC)/CE/MS/BT/BM,Female,Masters,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,5,5,5,6:00 am - 7:00 am,Yes,Yes,8.3,3,8
+4/14/2024 17:09:49,CS/AI/MnC,Female,Bachelors,4th,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",8,3,4,4,8:00 am - 9:00 am,Yes,Sometimes,8.8,6,6
+4/14/2024 17:14:12,ME/CH(IC)/CE/MS/BT/BM,Male,Research,4+,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,6:00 am - 7:00 am,Yes,Yes,8.5,3,8
+4/14/2024 17:33:01,EE/EP/ES/CO,Male,Bachelors,4th,<= 12 hours,Rarely,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,1,0,0,8:00 am - 9:00 am,No,No,8.1,3,3
+4/14/2024 17:38:20,EE/EP/ES/CO,Male,Bachelors,4th,<= 12 hours,Rarely,Morning (9am - 1pm),1,1,3,2,9:00 am - 10:00 am,No,Sometimes,8.5,3,3
+4/14/2024 17:45:34,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Often,Evening (5:30 pm or later)  :(,2,2,1,5,8:00 am - 9:00 am,No,No,9.63,3,6
+4/14/2024 17:54:35,EE/EP/ES/CO,Male,Bachelors,2nd,<= 12 hours,Often,Morning (9am - 1pm),1,1,4,3,8:00 am - 9:00 am,No,Sometimes,8.04,3,6
+4/14/2024 18:05:47,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),6,5,5,4,8:00 am - 9:00 am,Yes,Yes,9.24,5,8
+4/14/2024 18:59:32,EE/EP/ES/CO,Male,Masters,1st,<= 12 hours,Often,Morning (9am - 1pm),2,5,4,4,6:00 am - 7:00 am,No,Yes,9,3,6
+4/14/2024 19:18:50,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),3,2,2,3,8:00 am - 9:00 am,No,Sometimes,8.35,5,5
+4/14/2024 19:33:58,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Often,Morning (9am - 1pm),2,2,2,2,8:00 am - 9:00 am,No,Sometimes,8,5,6
+4/14/2024 20:47:46,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),3,3,4,4,8:00 am - 9:00 am,Yes,Yes,7.91,5,8
+4/14/2024 20:52:08,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,4,4,8:00 am - 9:00 am,Yes,Yes,8.3,3,6
+4/14/2024 22:01:26,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,4th,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,4,4,7:00 am - 8:00 am,Yes,Yes,9,3,6
+4/14/2024 23:16:14,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",6,4,4,4,9:00 am - 10:00 am,No,No,8.12,5,6
+4/15/2024 2:11:13,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),4,2,1,2,After 10:00 am,Yes,Yes,8,5,5
+4/15/2024 2:15:05,ME/CH(IC)/CE/MS/BT/BM,Female,Masters,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,4,0,4,8:00 am - 9:00 am,Yes,Yes,8.319491393,3,8
+4/15/2024 13:05:23,CS/AI/MnC,Male,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,2,2,2,8:00 am - 9:00 am,No,No,9.25,3,5
+4/15/2024 13:28:18,CS/AI/MnC,Female,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),2,3,2,3,8:00 am - 9:00 am,Yes,Sometimes,8.53,5,6
+4/15/2024 14:52:31,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,3,3,4,7:00 am - 8:00 am,Yes,Sometimes,7.6,3,5
+4/15/2024 14:52:32,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,3rd,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,5,5,5,8:00 am - 9:00 am,No,Yes,8.402327828,3,8
+4/15/2024 14:52:40,EE/EP/ES/CO,Male,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),4,2,0,1,After 10:00 am,No,Sometimes,7.224566726,3,3
+4/15/2024 14:53:07,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,3,3,4,8:00 am - 9:00 am,No,Sometimes,8.79,3,5
+4/15/2024 14:53:34,CS/AI/MnC,Male,Bachelors,1st,> 12 hours,Rarely,Evening (5:30 pm or later)  :(,1,1,0,0,After 10:00 am,No,No,6.99,5,3
+4/15/2024 14:54:14,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,1,3,1,After 10:00 am,No,No,7.47248213,3,6
+4/15/2024 14:55:58,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),5,2,5,5,6:00 am - 7:00 am,No,Yes,8.81,5,8
+4/15/2024 14:56:55,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,4,4,8:00 am - 9:00 am,Yes,Sometimes,7.49,5,8
+4/15/2024 14:57:23,EE/EP/ES/CO,Female,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,8:00 am - 9:00 am,Yes,Yes,8.5,5,8
+4/15/2024 14:58:03,CS/AI/MnC,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",10,5,5,5,7:00 am - 8:00 am,Yes,Yes,9.6,5,8
+4/15/2024 15:00:37,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,3,5,3,9:00 am - 10:00 am,No,No,8.190463715,5,5
+4/15/2024 15:00:44,CS/AI/MnC,Female,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),5,1,3,1,8:00 am - 9:00 am,Yes,Yes,8.89,3,5
+4/15/2024 15:05:32,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),2,1,3,3,7:00 am - 8:00 am,No,Yes,9.13,5,6
+4/15/2024 15:05:33,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),3,4,2,1,9:00 am - 10:00 am,No,Sometimes,8.8,3,3
+4/15/2024 15:05:39,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,3,2,2,8:00 am - 9:00 am,No,Sometimes,7.73,3,5
+4/15/2024 15:05:44,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,<= 12 hours,Often,Morning (9am - 1pm),1,3,3,3,7:00 am - 8:00 am,Yes,Yes,8.82,3,6
+4/15/2024 15:06:28,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,4,3,4,8:00 am - 9:00 am,Yes,No,7,3,6
+4/15/2024 15:06:58,EE/EP/ES/CO,Female,Bachelors,1st,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,3,3,5,After 10:00 am,Yes,Yes,8.24,3,6
+4/15/2024 15:07:12,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,4,3,4,6:00 am - 7:00 am,Yes,Yes,9.94,3,8
+4/15/2024 15:07:40,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),6,5,5,5,8:00 am - 9:00 am,Yes,Yes,8.94,5,8
+4/15/2024 15:07:40,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,5,2,2,7:00 am - 8:00 am,Yes,Yes,8.41,5,5
+4/15/2024 15:07:59,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,2,4,5,9:00 am - 10:00 am,Yes,Yes,8.38,5,6
+4/15/2024 15:08:33,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),2,5,0,0,After 10:00 am,Yes,No,8,3,5
+4/15/2024 15:09:33,Design,Female,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,3,5,5,7:00 am - 8:00 am,Yes,Yes,8.93,3,8
+4/15/2024 15:09:41,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,5,4,4,7:00 am - 8:00 am,Yes,Yes,7.51,5,6
+4/15/2024 15:10:06,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,2,5,5,8:00 am - 9:00 am,Yes,Yes,7.69,5,6
+4/15/2024 15:10:41,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),4,4,2,0,9:00 am - 10:00 am,Yes,Sometimes,8.296406714,5,3
+4/15/2024 15:11:46,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,4,2,4,8:00 am - 9:00 am,Yes,Yes,7,3,6
+4/15/2024 15:11:48,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),2,3,1,5,After 10:00 am,Yes,Sometimes,8.217657067,3,4
+4/15/2024 15:13:20,EE/EP/ES/CO,Female,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",4,4,3,4,8:00 am - 9:00 am,Yes,Yes,8.2,3,6
+4/15/2024 15:13:32,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,2,2,2,8:00 am - 9:00 am,No,Sometimes,8,3,4
+4/15/2024 15:13:48,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,5,5,5,9:00 am - 10:00 am,No,Yes,9.06,5,8
+4/15/2024 15:14:53,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,4,3,4,8:00 am - 9:00 am,Yes,Yes,7,3,6
+4/15/2024 15:15:43,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),5,3,1,1,9:00 am - 10:00 am,No,Yes,8.3,5,4
+4/15/2024 15:16:28,CS/AI/MnC,Female,Masters,1st,> 12 hours,Often,Morning (9am - 1pm),3,4,4,4,7:00 am - 8:00 am,Yes,Sometimes,7,5,6
+4/15/2024 15:16:50,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),2,5,5,5,6:00 am - 7:00 am,Yes,Sometimes,7.19,5,6
+4/15/2024 15:17:23,CS/AI/MnC,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,5,5,5,7:00 am - 8:00 am,Yes,Yes,9.5,5,8
+4/15/2024 15:18:55,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),3,4,3,5,8:00 am - 9:00 am,Yes,Sometimes,8.45,3,6
+4/15/2024 15:19:31,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,4,4,4,9:00 am - 10:00 am,Yes,Yes,9.5,5,4
+4/15/2024 15:22:02,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,4,4,4,6:00 am - 7:00 am,Yes,Sometimes,9.69,3,6
+4/15/2024 15:22:02,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,3,3,5,9:00 am - 10:00 am,No,Sometimes,7.69,5,4
+4/15/2024 15:27:24,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,3,3,4,After 10:00 am,No,Yes,7.825,5,4
+4/15/2024 15:34:41,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),1,4,2,2,9:00 am - 10:00 am,No,Sometimes,6.5,3,3
+4/15/2024 15:39:47,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),2,4,1,1,7:00 am - 8:00 am,No,No,8.08,3,3
+4/15/2024 15:42:07,ME/CH(IC)/CE/MS/BT/BM,Female,Research,1st,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,1,2,2,9:00 am - 10:00 am,Yes,No,9.92,5,4
+4/15/2024 15:46:33,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,8:00 am - 9:00 am,No,Sometimes,8.326987989,3,8
+4/15/2024 15:47:07,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Rarely,Morning (9am - 1pm),1,3,2,2,9:00 am - 10:00 am,No,Sometimes,6.81,3,3
+4/15/2024 15:48:20,CS/AI/MnC,Female,Bachelors,2nd,<= 12 hours,Often,Morning (9am - 1pm),4,3,5,4,7:00 am - 8:00 am,No,No,9.1,3,6
+4/15/2024 15:56:46,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),3,2,1,1,9:00 am - 10:00 am,No,Sometimes,7,3,4
+4/15/2024 16:04:26,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,5,5,8:00 am - 9:00 am,Yes,No,9,5,6
+4/15/2024 16:37:54,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,3,4,2,8:00 am - 9:00 am,No,Yes,8.64,5,4
+4/15/2024 16:49:51,Design,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),1,4,5,5,9:00 am - 10:00 am,Yes,Yes,9,5,8
+4/15/2024 16:58:24,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Rarely,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",4,1,0,0,6:00 am - 7:00 am,No,No,8.78,5,3
+4/15/2024 16:58:42,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),4,4,3,5,8:00 am - 9:00 am,No,Sometimes,9.02,5,4
+4/15/2024 17:06:36,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",5,5,4,4,8:00 am - 9:00 am,Yes,Yes,8.06,5,6
+4/15/2024 17:25:04,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,1,0,0,6:00 am - 7:00 am,Yes,Sometimes,7.1,5,8
+4/15/2024 17:26:59,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),3,3,1,1,After 10:00 am,No,No,7.93,5,3
+4/15/2024 17:33:39,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),5,3,3,5,8:00 am - 9:00 am,No,Yes,7.1,3,4
+4/15/2024 17:47:03,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),4,4,3,5,8:00 am - 9:00 am,No,No,7.5,5,6
+4/15/2024 18:12:00,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,2,1,4,9:00 am - 10:00 am,No,Yes,9,5,7
+4/15/2024 18:16:34,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Often,Morning (9am - 1pm),1,3,5,2,7:00 am - 8:00 am,No,Sometimes,8.5,4,7
+4/15/2024 18:28:48,CS/AI/MnC,Male,Bachelors,4th,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),1,1,0,0,After 10:00 am,Yes,Sometimes,8.3,3,2
+4/15/2024 18:42:18,CS/AI/MnC,Female,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,3,5,5,8:00 am - 9:00 am,Yes,Yes,8.1,3,8
+4/15/2024 18:57:19,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",6,4,4,5,8:00 am - 9:00 am,No,Yes,7.74,4,8
+4/15/2024 19:55:29,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),4,5,5,5,8:00 am - 9:00 am,Yes,Yes,8.565002302,4,8
+4/16/2024 2:41:56,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",2,2,2,2,8:00 am - 9:00 am,No,Sometimes,9.5,4,7
+4/16/2024 10:43:50,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Often,Morning (9am - 1pm),3,3,2,5,7:00 am - 8:00 am,Yes,Yes,9,4,7
+4/16/2024 11:05:18,EE/EP/ES/CO,Female,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),7,1,3,1,9:00 am - 10:00 am,No,No,8.8,4,4
+4/16/2024 14:16:05,CS/AI/MnC,Male,Bachelors,4th,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),6,3,3,4,9:00 am - 10:00 am,Yes,Sometimes,8,4,4
+4/16/2024 14:40:48,EE/EP/ES/CO,Male,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),1,4,5,5,8:00 am - 9:00 am,Yes,Sometimes,7.3,3,4
+4/16/2024 14:42:07,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),3,3,3,5,After 10:00 am,No,Yes,8.4,3,7
+4/16/2024 14:57:12,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,4,3,4,8:00 am - 9:00 am,Yes,Sometimes,7.8,3,4
+4/16/2024 14:57:36,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,4,3,5,8:00 am - 9:00 am,No,Sometimes,8.2,4,7
+4/16/2024 14:58:31,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Often,Morning (9am - 1pm),1,4,5,5,7:00 am - 8:00 am,Yes,Yes,8.2,3,7
+4/16/2024 15:05:54,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,5,5,5,6:00 am - 7:00 am,No,Yes,9.63,3,8
+4/16/2024 15:12:45,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",5,2,3,5,8:00 am - 9:00 am,No,Sometimes,8.1,4,4
+4/16/2024 15:24:54,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,6:00 am - 7:00 am,Yes,Yes,7.8,4,8
+4/16/2024 15:53:57,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Often,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,1,1,1,After 10:00 am,Yes,Sometimes,8.750520951,3,7
+4/16/2024 15:56:11,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,5,4,5,8:00 am - 9:00 am,Yes,Yes,7.94,3,7
+4/16/2024 15:56:37,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,3,4,2,8:00 am - 9:00 am,No,Yes,7.08,4,4
+4/16/2024 15:58:39,CS/AI/MnC,Female,Masters,1st,> 12 hours,Often,Morning (9am - 1pm),2,4,4,2,7:00 am - 8:00 am,No,Yes,7.69,4,7
+4/16/2024 16:00:45,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Between Rarely and Often,Evening (5:30 pm or later)  :(,3,5,5,5,7:00 am - 8:00 am,No,Sometimes,7.07,4,4
+4/16/2024 16:02:20,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,2,4,5,8:00 am - 9:00 am,Yes,Yes,8.25,3,7
+4/16/2024 16:06:47,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,<= 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,5,4,5,6:00 am - 7:00 am,Yes,Yes,7.69,3,7
+4/16/2024 16:08:14,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,3rd,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),5,3,5,5,8:00 am - 9:00 am,Yes,Yes,8.3,3,7
+4/16/2024 16:10:56,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",5,5,5,5,6:00 am - 7:00 am,Yes,Yes,6.9,4,7
+4/16/2024 16:16:05,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,5,4,4,6:00 am - 7:00 am,Yes,Yes,7.8,3,7
+4/16/2024 16:19:13,CS/AI/MnC,Female,Bachelors,3rd,> 12 hours,Rarely,Morning (9am - 1pm),2,3,3,3,9:00 am - 10:00 am,No,Sometimes,7.79,4,2
+4/16/2024 16:19:53,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,4,3,5,8:00 am - 9:00 am,No,Sometimes,7.56,4,4
+4/16/2024 16:21:31,CS/AI/MnC,Female,Bachelors,3rd,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),4,4,4,4,After 10:00 am,No,Yes,8.71,3,7
+4/16/2024 16:23:54,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,5,5,7:00 am - 8:00 am,Yes,Yes,9.24,3,7
+4/16/2024 16:24:24,ME/CH(IC)/CE/MS/BT/BM,Male,Research,4+,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,3,5,5,7:00 am - 8:00 am,Yes,Yes,8.6,3,7
+4/16/2024 16:27:10,CS/AI/MnC,Male,Bachelors,4th,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),2,1,1,1,After 10:00 am,No,Sometimes,7.8,2,2
+4/16/2024 16:40:54,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),5,4,4,4,7:00 am - 8:00 am,Yes,Yes,7.5,4,4
+4/16/2024 16:47:32,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Often,Morning (9am - 1pm),2,4,4,4,8:00 am - 9:00 am,Yes,Yes,9.81,2,7
+4/16/2024 16:55:20,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Rarely,Morning (9am - 1pm),3,1,0,0,9:00 am - 10:00 am,No,Sometimes,8.2,4,2
+4/16/2024 17:16:44,EE/EP/ES/CO,Male,Bachelors,1st,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),3,4,2,5,9:00 am - 10:00 am,No,Yes,9.5,4,4
+4/16/2024 17:17:49,Design,Male,Bachelors,2nd,<= 12 hours,Often,Morning (9am - 1pm),8,4,4,4,9:00 am - 10:00 am,Yes,Yes,8.2,2,7
+4/16/2024 17:38:20,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,5,5,5,8:00 am - 9:00 am,Yes,Yes,8.38,2,7
+4/16/2024 17:41:16,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,5,5,8:00 am - 9:00 am,Yes,Sometimes,8.89,4,7
+4/16/2024 17:59:30,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,1st,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,2,4,4,8:00 am - 9:00 am,Yes,Yes,8.5,4,7
+4/16/2024 18:17:38,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",4,2,3,2,After 10:00 am,No,Sometimes,8.62,4,4
+4/16/2024 18:17:50,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Rarely,Morning (9am - 1pm),6,1,3,5,After 10:00 am,No,Sometimes,8,4,2
+4/16/2024 18:35:55,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),2,3,3,1,After 10:00 am,No,Sometimes,8.4,4,2
+4/16/2024 19:13:21,ME/CH(IC)/CE/MS/BT/BM,Male,Masters,1st,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),1,5,5,5,9:00 am - 10:00 am,Yes,Yes,9.1,4,7
+4/16/2024 19:27:29,CS/AI/MnC,Male,Bachelors,1st,<= 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,2,2,2,8:00 am - 9:00 am,Yes,Sometimes,7.5,2,4
+4/16/2024 19:58:11,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Rarely,Evening (5:30 pm or later)  :(,1,1,0,2,9:00 am - 10:00 am,No,No,6.7,4,2
+4/16/2024 20:03:14,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,1st,<= 12 hours,Often,Morning (9am - 1pm),3,4,3,4,9:00 am - 10:00 am,No,Sometimes,8.53,2,7
+4/16/2024 20:26:29,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,4th,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,4,4,4,8:00 am - 9:00 am,Yes,Yes,8.37,2,7
+4/16/2024 21:34:07,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),3,3,2,3,After 10:00 am,Yes,Yes,7.95,4,7
+4/16/2024 21:56:34,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,4,3,4,8:00 am - 9:00 am,Yes,Sometimes,7.2,4,7
+4/16/2024 22:14:52,ME/CH(IC)/CE/MS/BT/BM,Female,Masters,1st,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",6,3,5,5,7:00 am - 8:00 am,Yes,Yes,8.2,4,7
+4/16/2024 22:17:20,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Often,Morning (9am - 1pm),3,5,2,2,8:00 am - 9:00 am,No,Yes,8.63,4,7
+4/16/2024 22:17:41,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),2,3,3,3,8:00 am - 9:00 am,No,Sometimes,8,2,4
+4/16/2024 22:19:04,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,4,5,5,6:00 am - 7:00 am,Yes,Yes,9.25,4,7
+4/16/2024 22:23:56,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),1,1,0,1,9:00 am - 10:00 am,No,No,8.6,2,2
+4/16/2024 22:24:15,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Rarely,Morning (9am - 1pm),4,2,1,1,9:00 am - 10:00 am,No,Sometimes,8.44,4,2
+4/16/2024 22:24:33,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),3,2,1,1,8:00 am - 9:00 am,No,Sometimes,8.22,2,2
+4/16/2024 22:29:48,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,<= 12 hours,Between Rarely and Often,Morning (9am - 1pm),1,1,3,3,8:00 am - 9:00 am,Yes,Sometimes,8.8,2,4
+4/16/2024 22:34:19,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Afternoon(2:30 pm - 5:30 pm),7,3,5,5,8:00 am - 9:00 am,Yes,Sometimes,8.9,4,7
+4/16/2024 22:42:51,CS/AI/MnC,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Morning (9am - 1pm),3,1,2,2,7:00 am - 8:00 am,Yes,Sometimes,9.29,4,4
+4/16/2024 22:45:21,EE/EP/ES/CO,Female,Bachelors,2nd,> 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",3,4,3,3,8:00 am - 9:00 am,Yes,Sometimes,7.3,4,4
+4/16/2024 22:51:44,ME/CH(IC)/CE/MS/BT/BM,Female,Research,1st,<= 12 hours,Often,Morning (9am - 1pm),3,5,5,5,7:00 am - 8:00 am,Yes,No,7.73,2,7
+4/16/2024 22:52:30,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Rarely,Morning (9am - 1pm),1,1,0,0,9:00 am - 10:00 am,No,No,8,4,2
+4/16/2024 22:53:28,CS/AI/MnC,Male,Bachelors,2nd,<= 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),1,1,3,3,After 10:00 am,No,Sometimes,8.13692334,2,7
+4/16/2024 23:14:23,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Rarely,"Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,3,3,5,After 10:00 am,No,Sometimes,8.18,2,1
+4/16/2024 23:38:32,EE/EP/ES/CO,Female,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",3,5,5,5,7:00 am - 8:00 am,Yes,Yes,7.7,2,7
+4/16/2024 23:50:31,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),3,5,5,5,8:00 am - 9:00 am,Yes,No,7.45,4,7
+4/16/2024 23:52:15,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,<= 12 hours,Rarely,Morning (9am - 1pm),1,1,1,1,8:00 am - 9:00 am,No,No,8.98,2,1
+4/17/2024 0:11:20,EE/EP/ES/CO,Male,Bachelors,1st,<= 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,3,4,4,8:00 am - 9:00 am,Yes,Yes,8.38,1,7
+4/17/2024 0:13:23,ME/CH(IC)/CE/MS/BT/BM,Female,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),6,5,5,5,8:00 am - 9:00 am,Yes,Yes,9.1,4,7
+4/17/2024 0:54:55,EE/EP/ES/CO,Female,Bachelors,2nd,<= 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),2,2,3,4,8:00 am - 9:00 am,Yes,Sometimes,9.11,1,7
+4/17/2024 2:53:55,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Between Rarely and Often,Afternoon(2:30 pm - 5:30 pm),4,4,1,3,9:00 am - 10:00 am,No,Sometimes,8.3,4,4
+4/17/2024 7:59:46,EE/EP/ES/CO,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",7,5,5,5,7:00 am - 8:00 am,No,Yes,8.5,4,7
+4/17/2024 9:44:34,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,3rd,> 12 hours,Often,Afternoon(2:30 pm - 5:30 pm),1,4,3,3,7:00 am - 8:00 am,Yes,Yes,8.4,4,7
+4/17/2024 9:52:05,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),Morning (9am - 1pm),1,5,5,5,7:00 am - 8:00 am,Yes,Yes,8.45,4,7
+4/17/2024 16:47:06,CS/AI/MnC,Male,Bachelors,3rd,> 12 hours,Rarely,Evening (5:30 pm or later)  :(,4,1,0,3,6:00 am - 7:00 am,No,No,8.075209742,4,1
+4/17/2024 18:56:43,ME/CH(IC)/CE/MS/BT/BM,Male,Research,1st,<= 12 hours,Between Rarely and Often,"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm), Evening (5:30 pm or later)  :(",1,1,5,5,7:00 am - 8:00 am,Yes,Yes,7.1,1,4
+4/17/2024 21:21:00,EE/EP/ES/CO,Male,Bachelors,4th,<= 12 hours,Rarely,Afternoon(2:30 pm - 5:30 pm),4,1,0,0,After 10:00 am,No,No,9.858902472,1,1
+4/17/2024 22:36:11,CS/AI/MnC,Female,Bachelors,1st,<= 12 hours,Rarely,Morning (9am - 1pm),1,1,1,1,9:00 am - 10:00 am,No,No,9.1,1,1
+4/18/2024 4:04:56,ME/CH(IC)/CE/MS/BT/BM,Male,Bachelors,2nd,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",1,1,4,4,9:00 am - 10:00 am,Yes,Yes,8.24,4,7
+4/19/2024 17:10:06,EE/EP/ES/CO,Male,Bachelors,4th,> 12 hours,Almost every class(Lol..Prodigy),"Morning (9am - 1pm), Afternoon(2:30 pm - 5:30 pm)",2,5,5,5,7:00 am - 8:00 am,Yes,Sometimes,8.851116729,4,7
