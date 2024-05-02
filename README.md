@@ -25,6 +25,10 @@ Our project aimed to analyse the attendance and academic patterns of college-goi
 4. **Results:** Review the output files, plots and visualizations to understand the findings.
 5. **Presentation:** Use the presentation slides to get a summarized overview of the project.
 
+### Links:
+1. [**Latex Report Link**]()
+2. [**Presentation Link**](https://www.canva.com/design/DAGEAytSYyQ/n8EIowEOMU5dzaunLDgDZw/edit?utm_content=DAGEAytSYyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Acknowledgments:
 We would like to thank Prof. Sameen Naqvi for their support and guidance throughout the project.
 
