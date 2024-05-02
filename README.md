@@ -26,7 +26,7 @@ Our project aimed to analyse the attendance and academic patterns of college-goi
 5. **Presentation:** Use the presentation slides to get a summarized overview of the project.
 
 ### Links:
-1. [**Latex Report Link**]()
+1. [**Latex Report Link**](https://www.overleaf.com/read/yprffcndbxdt#655e9b)
 2. [**Presentation Link**](https://www.canva.com/design/DAGEAytSYyQ/n8EIowEOMU5dzaunLDgDZw/edit?utm_content=DAGEAytSYyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Acknowledgments:
