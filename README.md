@@ -13,7 +13,7 @@ Our project aimed to analyse the attendance and academic patterns of college-goi
 
 ### Contributors:
 - Abhishek Jha - MA22BTECH11002
-- Ananya S. Reddy - MA22BTECH11002
+- Ananya S. Reddy - MA22BTECH11004
 - Mayank Parasramka - AI22BTECH11018
 - Pranay Jain - AI22BTECH11020
 - Yasir Usmani - AI22BTECH11031
